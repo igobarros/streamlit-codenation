@@ -70,22 +70,22 @@ https://streamlit-regressao.herokuapp.com/
 	5 - Transformação da variável independente/target
 
 <p align="justify">Página inicial do app</p>
-<img src="mainpage.png" alt="Conteúdo da página principal" width="400" height="400">
+<img src="mainpage.png" alt="Conteúdo da página principal" width="800" height="600">
 
 ## Apresentações e agradecimentos
 A codenation oferece programas de aceleração gratuitos para desenvolvedoras e desenvolvedores buscando atualização profissional e novas oportunidades de trabalho. E neste mês de abril de 2020 tive a oportunidade de participar da acaleração em data science e estou bastante animado com o programa, comunidade ativa, suporte de ótima qualidade e conteúdos incríveis.
 
-<p>
-	<img src="autor.png" width="100" height="100" alt="Autor - Igo Pereira Barros">
-	<a href="https://www.linkedin.com/in/igo-pereira-barros-developer/" target="_black">Linkedin</a>
-</p>
+
+<img src="autor.png" width="100" height="100" alt="Autor - Igo Pereira Barros">
+<a href="https://www.linkedin.com/in/igo-pereira-barros-developer/" target="_black">Linkedin</a>
+
 
 <br />
 
-<p>
-	<img src="logo.png" width="100" height="100">
-	<a href="https://www.linkedin.com/company/code-nation" target="_black">Linkedin</a>
-</p>
+
+<img src="logo.png" width="100" height="100">
+<a href="https://www.linkedin.com/company/code-nation" target="_black">Linkedin</a>
+
 
 
 ## Licensa
