@@ -34,8 +34,8 @@ CONFIG_GMAIL = {
 
 **DICAS:**
 
-	1 - Faça uma nova conta de email apenas para realizar esse procedimento, mas não impede de você usar seu email pessoal é só uma recomendação.
-	2 - Pode ser que em algum determinado momento o envio de email gere um erro, o mesmo ocorre porque o Gmail bloqueia o acesso de terceiros ao email via conexão SMTPLIB. Para reverter essa situação acesse esse [site](https://myaccount.google.com/lesssecureapps) de configurações do gmail e ative a opção de aceitar aplicativos menos seguros.
+<p align="justify">1- Faça uma nova conta de email apenas para realizar esse procedimento, mas não impede de você usar seu email pessoal é só uma recomendação.</p>
+<p align="justify">2 - Pode ser que em algum determinado momento o envio de email gere um erro, o mesmo ocorre porque o Gmail bloqueia o acesso de terceiros ao email via conexão SMTPLIB. Para reverter essa situação acesse esse [site](https://myaccount.google.com/lesssecureapps) de configurações do gmail e ative a opção de aceitar aplicativos menos seguros.</p>
 
 <h3>Suporte a MongoDB Local e MongoDB na nuvem(MongoAtlas)</h3>
 
