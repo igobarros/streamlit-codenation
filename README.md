@@ -76,14 +76,14 @@ https://streamlit-regressao.herokuapp.com/
 <p align="justify">A codenation oferece programas de aceleração gratuitos para desenvolvedoras e desenvolvedores buscando atualização profissional e novas oportunidades de trabalho. E neste mês de abril de 2020 tive a oportunidade de participar da acaleração em data science e estou bastante animado com o programa, comunidade ativa, suporte de ótima qualidade e conteúdos incríveis.</p>
 
 
-<div style="width: 50px height: 50px; display: block;">
+<div style="width: 50px height: 50px; display: inline-block;">
 	<img src="autor.png" alt="Autor - Igo Pereira Barros">
 	<span>
 		<a href="https://www.linkedin.com/in/igo-pereira-barros-developer/" target="_black">Linkedin - Autor</a>
 	</span>
 </div>
 
-<div style="width: 50px height: 50px; display: block;">
+<div style="width: 50px height: 50px; display: inline-block;">
 	<img src="logo.png" align="Codenation">
 	<span>
 		<a href="https://www.linkedin.com/company/code-nation" target="_black">Linkedin - Codenation</a>
