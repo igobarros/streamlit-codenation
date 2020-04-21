@@ -21,7 +21,7 @@ $ pip install -r requirements.txt
 ```
 
 ## Configurando o projeto
-<p>Suporte a E-mail</p>
+<h3>Suporte a E-mail</h3>
 
 No arquivo ```settings.py``` altere as credenciais do dicionário ```CONFIG_GMAIL``` para as do seu email que deseja vincular ao app.
 ```
@@ -32,11 +32,12 @@ CONFIG_GMAIL = {
 }
 ```
 
-**DICAS:** 
-1 - Faça uma nova conta de email apenas para realizar esse procedimento, mas não impede de você usar seu email pessoal é só uma recomendação.
-2 - Pode ser que em algum determinado momento o envio de email gere um erro, o mesmo ocorre porque o Gmail bloqueia o acesso de terceiros ao email via conexão SMTPLIB. Para reverter essa situação acesse esse [site](https://myaccount.google.com/lesssecureapps) de configurações do gmail e ative a opção de aceitar aplicativos menos seguros.
+**DICAS:**
 
-<p>Suporte a MongoDB Local e MongoDB na nuvem(MongoAtlas)</p>
+	1 - Faça uma nova conta de email apenas para realizar esse procedimento, mas não impede de você usar seu email pessoal é só uma recomendação.
+	2 - Pode ser que em algum determinado momento o envio de email gere um erro, o mesmo ocorre porque o Gmail bloqueia o acesso de terceiros ao email via conexão SMTPLIB. Para reverter essa situação acesse esse [site](https://myaccount.google.com/lesssecureapps) de configurações do gmail e ative a opção de aceitar aplicativos menos seguros.
+
+<h3>Suporte a MongoDB Local e MongoDB na nuvem(MongoAtlas)</h3>
 
 No arquivo ```settings.py``` altere as credenciais do dicionário ```CONFIG_MONGODB``` para as do seu banco de dados.
 
@@ -62,27 +63,27 @@ https://streamlit-regressao.herokuapp.com/
 <p align="justify">O objetivo do app é realizar pré-processamento em bases com problemas do tipo regressão</p>
 <p align="justify">Procedimentos realizados oferecido pelo app:</p>
 
-1 - Informações da base
-2 - Imputação dos dados (Numéricas e Categóricas)
-3 - Correlação das variáveis
-4 - Transformação das variáveis dependentes (Numéricas e Categóricas)
-5 - Transformação da variável independente/target
+	1 - Informações da base
+	2 - Imputação dos dados (Numéricas e Categóricas)
+	3 - Correlação das variáveis
+	4 - Transformação das variáveis dependentes (Numéricas e Categóricas)
+	5 - Transformação da variável independente/target
 
 <p align="justify">Página inicial do app</p>
-<img src="mainpage.png" alt="Conteúdo da página principal">
+<img src="mainpage.png" alt="Conteúdo da página principal" width="400" height="400">
 
 ## Apresentações e agradecimentos
 A codenation oferece programas de aceleração gratuitos para desenvolvedoras e desenvolvedores buscando atualização profissional e novas oportunidades de trabalho. E neste mês de abril de 2020 tive a oportunidade de participar da acaleração em data science e estou bastante animado com o programa, comunidade ativa, suporte de ótima qualidade e conteúdos incríveis.
 
 <p>
-	<img src="autor.png" width="15" height="15" alt="Autor - Igo Pereira Barros">
+	<img src="autor.png" width="100" height="100" alt="Autor - Igo Pereira Barros">
 	<a href="https://www.linkedin.com/in/igo-pereira-barros-developer/" target="_black">Linkedin</a>
 </p>
 
 <br />
 
 <p>
-	<img src="logo.png" width="15" height="15">
+	<img src="logo.png" width="100" height="100">
 	<a href="https://www.linkedin.com/company/code-nation" target="_black">Linkedin</a>
 </p>
 
