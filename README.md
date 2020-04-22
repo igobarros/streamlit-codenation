@@ -78,8 +78,6 @@ https://streamlit-regressao.herokuapp.com/
 
 
 | [example](autor.png) |  [example](logo.png) |
-| [Linkedin - Autor](https://www.linkedin.com/in/igo-pereira-barros-developer/) | [Linkedin - Codenation]
-(https://www.linkedin.com/company/code-nation)
 
 
 ## Licensa
