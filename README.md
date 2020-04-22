@@ -77,17 +77,35 @@ https://streamlit-regressao.herokuapp.com/
 
 
 
-<div style="display: flex;">
+<style>
+	.container {
+		display: flex;
+	}
+
+	span {
+		display: table-row;
+	}
+
+	.pl-50 {
+		padding-left: 50px;
+	}
+
+	a {
+		text-decoration: none;
+	}
+</style>
+
+<div class="container">
     <div>
     	<img src="autor.png" alt="Autor - Igo Pereira Barros" width="150" height="150">
-    	<span style="display: table-row;">
-    		<a href="https://www.linkedin.com/in/igo-pereira-barros-developer/" style="text-decoration: none;">Linkedin - Autor</a>
+    	<span>
+    		<a href="https://www.linkedin.com/in/igo-pereira-barros-developer/">Linkedin - Autor</a>
     	</span>
     </div>
-    <div style="padding-left: 50px">
+    <div class="pl50">
     	<img src="logo.png" alt="Codenation" width="150" height="150">
-    	<span style="display: table-row;">
-    		<a href="https://www.linkedin.com/company/code-nation" style="text-decoration: none;">Linkedin - Codenation</a>
+    	<span>
+    		<a href="https://www.linkedin.com/company/code-nation">Linkedin - Codenation</a>
     	</span>
     </div>
 </div>
