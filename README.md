@@ -77,7 +77,9 @@ https://streamlit-regressao.herokuapp.com/
 
 
 
-| [example](autor.png) |  [example](logo.png) |
+| Imagem 1 | Imagem 2 |
+|----------|----------|
+| [example](/igo.png) |  [example](/logo.png) |
 
 
 ## Licensa
