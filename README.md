@@ -78,21 +78,21 @@ https://streamlit-regressao.herokuapp.com/
 
 
 <style>
-	.container {
-		display: flex;
-	}
+		.container {
+			display: flex;
+		}
 
-	span {
-		display: table-row;
-	}
+		span {
+			display: table-row;
+		}
 
-	.pl-50 {
-		padding-left: 50px;
-	}
+		.pl-50 {
+			padding-left: 50px;
+		}
 
-	a {
-		text-decoration: none;
-	}
+		a {
+			text-decoration: none;
+		}
 </style>
 
 <div class="container">
