@@ -77,7 +77,17 @@ https://streamlit-regressao.herokuapp.com/
 
 
 
-![image](autor.png) ![image](logo.png)
+<div style="display: inline-block;">
+    <div>
+    	<img src="autor.png" alt="Autor - Igo Pereira Barros" width="150" height="150">
+    	<span><a href="">Linkedin - Autor</a></span>
+    </div>
+    <div style="padding-left: 50px">
+    	<img src="autor.png" alt="Autor - Igo Pereira Barros" width="150" height="150">
+    	<span><a href="">Linkedin - Autor</a></span>
+    </div>
+</div>
+
 
 
 ## Licensa
