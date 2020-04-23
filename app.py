@@ -488,7 +488,7 @@ def main():
 						}}
 					</style>
 					
-					<a style="text-decoration:none;" href="data:file/csv;base64,{b64}"><button class="button">Download</button></a>
+					<a style="text-decoration:none;" href="data:file/csv;base64,{b64}" download="preprocessed.csv"><button class="button">Download</button></a>
 				''', unsafe_allow_html=True)
 			else:
 				st.sidebar.text('Complete o pré-processamento')
