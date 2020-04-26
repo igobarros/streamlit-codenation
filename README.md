@@ -39,5 +39,5 @@
 
 
 
-## Licensa
+## Licença
 Esse projeto é de código aberto com licença do MIT LICENSE.
