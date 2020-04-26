@@ -40,4 +40,4 @@
 
 
 ## Licensa
-Esse projeto é de código aberto com licensa do MIT LICENSE.
+Esse projeto é de código aberto com licença do MIT LICENSE.
