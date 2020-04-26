@@ -525,10 +525,10 @@ def main():
 
 		video_youtube(src="https://www.youtube.com/embed/5gD2zeEqAQs")
 
-		st.sidebar.image('logo.png', width=300)
+		st.sidebar.image('../img/logo.png', width=300)
 		
 		st.markdown('### Apresentação: ')
-		st.image('autor.png', width=100)
+		st.image('../img/autor.png', width=100)
 		st.markdown('[**Linkedin - Igo Pereira Barros**](https://www.linkedin.com/in/igo-pereira-barros-developer/)')
 		st.markdown('[**Linkedin - Codenation**](https://www.linkedin.com/company/code-nation)')
 		st.markdown('[**Discord - Codenation**](https://discord.gg/AvxQRyF)')
